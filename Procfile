@@ -1,1 +1,1 @@
-web: node src/react.js
+web: node react.js
